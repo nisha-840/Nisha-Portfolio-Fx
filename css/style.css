@@ -6,6 +6,8 @@
 }
 
 
+  
+
 .navbar {
     background-color: #d67b82 !important; /* Light pink */
   }
@@ -27,6 +29,12 @@
     background-color: navy;
     color: white;
 }
+
+.col-md-6 img {
+    object-fit: cover;
+    height: 100%;
+  }
+  
 
 #Project{
     padding-top: 70px;
